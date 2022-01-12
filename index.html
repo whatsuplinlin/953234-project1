@@ -5,10 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>953234-project1</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="custom-select">
-        <select>
+        <select onchange="checkAlert(event)">
           <option value="0">Student</option>
           <option value="1">Jeongmin Kim</option>
           <option value="2">Vanida Gowan</option>
@@ -22,6 +24,20 @@
             <option value="3">1/2564</option>
             <option value="4">2/2564</option>
         </select>
+    </div>
+
+    <div class="table1">
+        <table>
+            <ul>
+                <tr>
+                    <th>No</th>
+                    <th>Course No</th>
+                    <th>Course Title</th>
+                    <th>Credit</th>
+                    <th>Grade</th>
+                </tr>    
+            </ul>
+        </table>
     </div>
 </body>
 </html>
