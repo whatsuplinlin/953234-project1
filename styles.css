@@ -1,4 +1,38 @@
+body {
+    background-color: lemonchiffon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+.custom-select {
+    padding: 30px;
+}
+
+select {
+    width: 200px;
+    height: 40px;
+}
+
 th, td {
+    padding: 3px 20px; 
+}
+
+table {
+    margin: auto;
+    padding: 30px;
+}
+
+#table1 {
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+    
+}
+
+#left {
     text-align: left;
-    padding-right: 30px;
 }
