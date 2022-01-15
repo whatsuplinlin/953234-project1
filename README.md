@@ -1,12 +1,14 @@
 # Group Name : *Vanilla* # 
 
+---
+
 ## Group Member ##
 
 Student ID | Name | Nickname 
 -------------|--------------|---------------
 632115027|Nitipoom Tinnasri|Poom
 632115038|Vanida Gowan|Sky
-632115505|Jeongmin Kim|Lin
+632115503|Jeongmin Kim|Lin
 
 ---
 
